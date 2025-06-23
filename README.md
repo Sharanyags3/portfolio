@@ -8,7 +8,7 @@ It showcases my skills, education, experience, and certifications.
 ## 🔗 Live Preview
 
 You can view the live site here:  
-👉 [https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)  
+👉 [[https://Sharanyags3.github.io/portfolio](https://sharanyags3.github.io/portfolio/)]
 
 
 ---
